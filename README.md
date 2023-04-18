@@ -31,7 +31,7 @@ Now that you have created a repository, you need to clone it to your local machi
 - Type git clone followed by the URL you copied in step 3.
 For example:
 
-'''console
+'''
 git clone https://github.com/your-username/your-repository.git
 '''
 ### Step 3: Add Files to the Repository
@@ -43,11 +43,12 @@ Now that you have cloned the repository, you can add files to it. Here are the s
 - Type 'git add .' to stage all files in the directory or 'git add <filename>' to stage a specific file.
 For example: 
   
-'''console
+'''
 git add .
 '''
 or
-'''console
+  
+'''
 git add index.html
 '''
 
@@ -60,7 +61,7 @@ After adding files to the repository, you need to commit the changes. Committing
 
 For example:
 
-'''console
+'''
 git commit -m "Added index.html file"
 '''
 
@@ -71,7 +72,7 @@ The final step is to push the changes you made to the repository to GitHub. Push
 -Navigate to the repository directory.
 -Type git push.
 For example:
-'''console
+'''
 git push
 '''
 
