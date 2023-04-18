@@ -14,17 +14,17 @@ Before you start committing files to GitHub, you will need the following:
 To commit files to GitHub, you need to create a repository. A repository is a place where you can store and organize your code. Here are the steps to create a repository:
 
 - Log in to your GitHub account.
-- Click the "+" icon in the top right corner of the screen.
-- Select "New repository" from the dropdown menu.
+- Click the`+` icon in the top right corner of the screen.
+- Select `New repository` from the dropdown menu.
 - Give your repository a name and a description.
 - Choose whether you want your repository to be public or private.
-- Click the "Create repository" button.
+- Click the `Create repository` button.
 
 ### Step 2: Clone the Repository
 Now that you have created a repository, you need to clone it to your local machine. Cloning creates a local copy of the repository on your computer. Here are the steps to clone the repository:
 
 - Go to your repository's page on GitHub.
-- Click the "Code" button.
+- Click the `Code` button.
 - Copy the HTTPS URL provided.
 - Open a terminal or command prompt on your computer.
 - Navigate to the directory where you want to clone the repository.
@@ -40,7 +40,7 @@ Now that you have cloned the repository, you can add files to it. Here are the s
 - Create a new file or copy an existing file into the repository directory on your local machine.
 - Open a terminal or command prompt on your computer.
 - Navigate to the repository directory.
-- Type 'git add .' to stage all files in the directory or 'git add <filename>' to stage a specific file.
+- Type `git add .` to stage all files in the directory or `git add <filename>` to stage a specific file.
 For example: 
   
 ```
@@ -57,7 +57,7 @@ After adding files to the repository, you need to commit the changes. Committing
 
 - Open a terminal or command prompt on your computer.
 - Navigate to the repository directory.
-- Type git commit -m "your commit message".
+- Type git commit -m `your commit message`.
 
 For example:
 
