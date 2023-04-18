@@ -31,9 +31,9 @@ Now that you have created a repository, you need to clone it to your local machi
 - Type git clone followed by the URL you copied in step 3.
 For example:
 
-'''
+```
 git clone https://github.com/your-username/your-repository.git
-'''
+```
 ### Step 3: Add Files to the Repository
 Now that you have cloned the repository, you can add files to it. Here are the steps to add files to the repository:
 
@@ -43,14 +43,14 @@ Now that you have cloned the repository, you can add files to it. Here are the s
 - Type 'git add .' to stage all files in the directory or 'git add <filename>' to stage a specific file.
 For example: 
   
-'''
+```
 git add .
-'''
+```
 or
   
-'''
+```
 git add index.html
-'''
+```
 
 ### Step 4: Commit the Changes
 After adding files to the repository, you need to commit the changes. Committing records the changes you made to the repository with a message describing what you did. Here are the steps to commit changes:
@@ -61,9 +61,9 @@ After adding files to the repository, you need to commit the changes. Committing
 
 For example:
 
-'''
+```
 git commit -m "Added index.html file"
-'''
+```
 
 ### Step 5: Push the Changes to GitHub
 The final step is to push the changes you made to the repository to GitHub. Pushing updates the repository on GitHub with the changes you made. Here are the steps to push changes:
@@ -72,9 +72,9 @@ The final step is to push the changes you made to the repository to GitHub. Push
 -Navigate to the repository directory.
 -Type git push.
 For example:
-'''
+```
 git push
-'''
+```
 
 ### Conclusion
 In this README file, we discussed the steps involved in committing files to GitHub. Remember to add, commit, and push your changes regularly to keep your repository up-to-date. With these steps, you can easily collaborate with other developers and share your projects with the world.
