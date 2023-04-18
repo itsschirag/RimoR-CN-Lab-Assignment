@@ -55,9 +55,9 @@ git add index.html
 ### Step 4: Commit the Changes
 After adding files to the repository, you need to commit the changes. Committing records the changes you made to the repository with a message describing what you did. Here are the steps to commit changes:
 
--Open a terminal or command prompt on your computer.
--Navigate to the repository directory.
--Type git commit -m "your commit message".
+- Open a terminal or command prompt on your computer.
+- Navigate to the repository directory.
+- Type git commit -m "your commit message".
 
 For example:
 
@@ -68,9 +68,9 @@ git commit -m "Added index.html file"
 ### Step 5: Push the Changes to GitHub
 The final step is to push the changes you made to the repository to GitHub. Pushing updates the repository on GitHub with the changes you made. Here are the steps to push changes:
 
--Open a terminal or command prompt on your computer.
--Navigate to the repository directory.
--Type git push.
+- Open a terminal or command prompt on your computer.
+- Navigate to the repository directory.
+- Type git push.
 For example:
 ```
 git push
